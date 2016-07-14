@@ -20,3 +20,10 @@ The first commit of this project is the [beta 5](http://llllllll.co/t/app-the-pa
 posted there.
 
 All subsequent commits are tweaks for @rknLA's setup.
+
+## Externals
+
+Github doesn't play nicely with committing the Mac versions of Max externals
+(.mxo files), since they're actually packages / folders, rather than single
+files.  As such, you should download the [beta 5 zip from the Party Van thread](http://llllllll.co/t/app-the-party-van/247/291)
+and copy the externals over from there if you need to use git for development.
