@@ -1,8 +1,8 @@
 {
 	"name" : "Block Party v01 (beta5)",
 	"version" : 1,
-	"creationdate" : -750472817,
-	"modificationdate" : -750472653,
+	"creationdate" : -750472938,
+	"modificationdate" : 3558531541,
 	"viewrect" : [ 73.0, 140.0, 300.0, 500.0 ],
 	"autoorganize" : 1,
 	"hideprojectwindow" : 1,
@@ -142,6 +142,11 @@
 			}
 ,
 			"shnth.maxpat" : 			{
+				"kind" : "patcher",
+				"local" : 1
+			}
+,
+			"rkn_loop_pedal.maxpat" : 			{
 				"kind" : "patcher",
 				"local" : 1
 			}
